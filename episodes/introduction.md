@@ -201,9 +201,9 @@ The lesson you just created lives local on your computer, but still needs to go
 to GitHub. At this point, we assume that you have successfully [linked your 
 computer to GitHub](../learners/setup.md#connect-to-github-1).
 
-1. visit <https://github.com/new/>
-2. enter `buoyant-barnacle` as the repository name
-3. Press the green "Create Repository" button at the bottom of the page
+1. Visit <https://github.com/new/>.
+2. Enter `buoyant-barnacle` as the repository name.
+3. Press the green "Create Repository" button at the bottom of the page.
 4. Follow the instructions on the page to push an existing repository from the
    command line. 
 
