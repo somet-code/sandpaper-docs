@@ -78,7 +78,7 @@ That's it. The website should update in about 2-3 minutes with your information.
 If you want to continue working directly on GitHub, you can do so. If you want to
 work locally, be sure to [follow the setup instructions][setup], clone your
 lesson to your computer, open RStudio (or your preferrred interface to R) inside
-the lesson folder, and [preview your new lesson](#preview)
+the lesson folder, and [preview your new lesson](#preview).
 
 ## Quickstart: Create a New Lesson
 
