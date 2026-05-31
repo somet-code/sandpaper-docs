@@ -13,7 +13,7 @@ four components:
    markdown to HTML
 3. The validator (R package [{pegboard}]) to parse the source files and
    highlight common errors
-4. The style (R package [{varnish}]) HTML, CSS, and JavaScript styling elements
+4. The style (R package [{varnish}]) to style HTML, CSS, and JavaScript elements
    for the final website
 
 Details of how these tools work together are explained in the [Lesson 
