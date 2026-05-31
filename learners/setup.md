@@ -9,7 +9,7 @@ four components:
 
 1. The source content (plain markdown or RMarkdown files organized into folders
    with a configuration yaml file)
-2. The engine (R package [{sandpaper}])to orchestrate building the content from
+2. The engine (R package [{sandpaper}]) to orchestrate building the content from
    markdown to HTML
 3. The validator (R package [{pegboard}]) to parse the source files and
    highlight common errors
